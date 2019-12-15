@@ -1,35 +1,8 @@
 # Quiz Android App
 
-[![Watchers](https://img.shields.io/github/watchers/immadisairaj/Quiz.svg?style=social&label=Watchers&maxAge=2592000)](https://GitHub.com/immadisairaj/Quiz/watchers/)
-[![Star Gazers](https://img.shields.io/github/stars/immadisairaj/Quiz.svg?style=social&label=Stars&maxAge=2592000)](https://GitHub.com/immadisairaj/Quiz/stargazers/)
-[![Forks](https://img.shields.io/github/forks/immadisairaj/Quiz.svg?style=social&label=Forks&maxAge=2592000)](https://GitHub.com/immadisairaj/Quiz/network/members/)
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Gitter](https://badges.gitter.im/immadisairaj/Quiz.svg)](https://gitter.im/immadisairaj/Quiz?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/immadisairaj/Quiz.svg?branch=master)](https://travis-ci.org/immadisairaj/Quiz)
-[![codecov](https://codecov.io/gh/immadisairaj/Quiz/branch/master/graph/badge.svg)](https://codecov.io/gh/immadisairaj/Quiz)
-[![Open Issues](https://img.shields.io/github/issues/immadisairaj/Quiz.svg)](https://GitHub.com/immadisairaj/Quiz/issues/)
-[![PRs](https://img.shields.io/github/issues-pr/immadisairaj/Quiz.svg)](https://GitHub.com/immadisairaj/Quiz/pulls/)
-[![Contributors](https://img.shields.io/github/contributors/immadisairaj/Quiz.svg)](https://GitHub.com/immadisairaj/Quiz/graphs/contributors/)
-
-## Communication
-
-Our chat channel is on gitter [here](https://gitter.im/immadisairaj/Quiz)
-
 ## Development
 
 A native Android app using Java for writing code.
-
-### Installing
-
-- Fork the repository. 
-- Clone the repo using the terminal command. Make sure you replace `username` with your GitHub username.
-```bash
-git clone https://github.com/username/Quiz.git 
-```
-
-First time contributors can read [CONTRIBUTION.md](https://github.com/immadisairaj/Quiz/blob/master/CONTRIBUTING.md) file for help regarding creating issues and sending pull requests.
 
 ### Setting up the Android Project
 
@@ -87,11 +60,3 @@ Used Encoding `encode=url3986`
 
 - Android Studio 3.4.1
 - Gradle 3.2.1
-
-## Code of Conduct
-
-This project Code of Conduct is under the Contributor Covenant, see the [CODE_OF_CONDUCT.md](https://github.com/immadisairaj/Quiz/blob/master/CODE_OF_CONDUCT.md) for more details.
-
-## License
-
-This project is licensed under the MIT License, see the [LICENSE.md](https://github.com/immadisairaj/Quiz/blob/master/LICENSE) for more details.
